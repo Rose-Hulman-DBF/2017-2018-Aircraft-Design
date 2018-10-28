@@ -30,7 +30,7 @@ alpha_stall = 15;      %angle of attack for stall
 Lambda_LE   = 10;      %leading edge sweep angle
 AR          = 4;       %Aspect Ratio
 taper       = 0.9;     %Taper ratio (0 is full taper 1 is no taper)
-S           = 2        %wing area (ft^2) (guess)
+S           = 3        %wing area (ft^2) (guess)
 S_f__S      = 0.4;     %flap area / wing area
 
 %tail
